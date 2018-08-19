@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel9
+                    Laravel12
                 </div>
 
                 <div class="links">
